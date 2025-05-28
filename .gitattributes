@@ -1,0 +1,5 @@
+# Git Attributes
+
+# [LF Normalization]
+*.gitattributes text
+*.html text
